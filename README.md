@@ -1,2 +1,2 @@
 # ffmpeg_lib
-Android平台可以使用的FFmpeg so库
+Android平台可以使用的FFmpeg so库》》》》》》》》
